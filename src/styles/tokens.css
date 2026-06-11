@@ -1,0 +1,21 @@
+:root {
+  color-scheme: dark;
+  --background: #080c14;
+  --sidebar: #060a11;
+  --card: #0d1220;
+  --card-soft: #101827;
+  --border: rgba(0, 212, 255, 0.14);
+  --border-strong: rgba(0, 212, 255, 0.35);
+  --foreground: #d8e4f0;
+  --muted: #5a7080;
+  --muted-foreground: #75889b;
+  --primary: #00d4ff;
+  --primary-foreground: #061019;
+  --success: #34d399;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --purple: #a78bfa;
+  --font-sans: Inter, "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+  --font-display: Rajdhani, Inter, "Microsoft YaHei", sans-serif;
+  --font-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+}
